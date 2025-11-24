@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(61,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(334,13): warning C4018: '<=': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(373,21): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(404,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(418,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(522,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(649,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(655,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(773,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(794,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(832,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(871,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(924,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(973,20): warning C4018: '<': signed/unsigned mismatch
+D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\RailWay\Source.cpp(977,21): warning C4018: '<': signed/unsigned mismatch
+  RailWay.vcxproj -> D:\College\2nd Year\2nd Term\DS\Project3.0\RailWay\Debug\RailWay.exe
